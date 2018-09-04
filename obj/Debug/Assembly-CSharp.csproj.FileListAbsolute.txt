@@ -1,0 +1,285 @@
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\Assembly-CSharp.dll
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\Assembly-CSharp.pdb
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\nunit.framework.dll
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\UnityEditor.dll
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\UnityEngine.Analytics.dll
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\UnityEngine.dll
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\UnityEngine.HoloLens.dll
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\UnityEngine.Networking.dll
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\UnityEngine.TestRunner.dll
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\UnityEngine.UI.dll
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\UnityEngine.VR.dll
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\Mono.Cecil.dll
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\Unity.SerializationLogic.dll
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\Unity.DataContract.dll
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\Unity.UNetWeaver.dll
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\Unity.CecilTools.dll
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\UnityEngine.xml
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\UnityEditor.xml
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\UnityEngine.UI.xml
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\UnityEngine.Networking.xml
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\UnityEngine.TestRunner.xml
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\nunit.framework.xml
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\UnityEngine.Analytics.xml
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\UnityEngine.HoloLens.xml
+U:\Year 4\Game Mechanics\HealthSword\Temp\bin\Debug\UnityEngine.VR.xml
+U:\Year 4\Game Mechanics\HealthSword\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+U:\Year 4\Game Mechanics\HealthSword\obj\Debug\Assembly-CSharp.dll
+U:\Year 4\Game Mechanics\HealthSword\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Sam\Desktop\HealthSword\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Sam\Desktop\HealthSword\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\HealthSword\obj\Debug\Assembly-CSharp.dll
+C:\Users\Sam\Desktop\HealthSword\obj\Debug\Assembly-CSharp.pdb
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\Assembly-CSharp.dll
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\Assembly-CSharp.pdb
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\nunit.framework.dll
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\UnityEditor.dll
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\UnityEngine.Analytics.dll
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\UnityEngine.dll
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\UnityEngine.Networking.dll
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\UnityEngine.TestRunner.dll
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\UnityEngine.UI.dll
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\UnityEngine.VR.dll
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\Mono.Cecil.dll
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\Unity.SerializationLogic.dll
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\Unity.DataContract.dll
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\Unity.UNetWeaver.dll
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\Unity.CecilTools.dll
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\UnityEngine.xml
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\UnityEditor.xml
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\UnityEngine.UI.xml
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\UnityEngine.Networking.xml
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\UnityEngine.TestRunner.xml
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\nunit.framework.xml
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\UnityEngine.Analytics.xml
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+U:\Year 4\Game Mechanics\HealthSword.2\Temp\bin\Debug\UnityEngine.VR.xml
+U:\Year 4\Game Mechanics\HealthSword.2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+U:\Year 4\Game Mechanics\HealthSword.2\obj\Debug\Assembly-CSharp.dll
+U:\Year 4\Game Mechanics\HealthSword.2\obj\Debug\Assembly-CSharp.pdb
+U:\Year 4\Game Mechanics\HealthSword.3\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+U:\Year 4\Game Mechanics\HealthSword.3\obj\Debug\Assembly-CSharp.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\Assembly-CSharp.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\Assembly-CSharp.pdb
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\nunit.framework.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\UnityEditor.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\UnityEngine.Analytics.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\UnityEngine.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\UnityEngine.HoloLens.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\UnityEngine.Networking.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\UnityEngine.TestRunner.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\UnityEngine.UI.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\UnityEngine.VR.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\Mono.Cecil.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\Unity.SerializationLogic.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\Unity.DataContract.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\Unity.UNetWeaver.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\Unity.CecilTools.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\UnityEngine.xml
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\UnityEditor.xml
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\UnityEngine.UI.xml
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\UnityEngine.Networking.xml
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\UnityEngine.TestRunner.xml
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\nunit.framework.xml
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\UnityEngine.Analytics.xml
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\UnityEngine.HoloLens.xml
+U:\Year 4\Game Mechanics\HealthSword.3\Temp\bin\Debug\UnityEngine.VR.xml
+U:\Year 4\Game Mechanics\HealthSword.3\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Sam\Desktop\HealthSword.3\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\HealthSword.3\obj\Debug\Assembly-CSharp.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Sam\Desktop\HealthSword.3\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Sam\Desktop\HealthSword.3\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\obj\Debug\Assembly-CSharp.dll
+C:\Users\Sam\Desktop\Uni Work\HealthSword.3\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Sam\Desktop\HealthSword.4\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Sam\Desktop\HealthSword.4\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\HealthSword.4\obj\Debug\Assembly-CSharp.dll
+C:\Users\Sam\Desktop\HealthSword.4\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Sam\Desktop\HealthSword.5\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Sam\Desktop\HealthSword.5\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\HealthSword.5\obj\Debug\Assembly-CSharp.dll
+C:\Users\Sam\Desktop\HealthSword.5\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Sam\Desktop\Final Project\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Sam\Desktop\Final Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\Final Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\Sam\Desktop\Final Project\obj\Debug\Assembly-CSharp.pdb
