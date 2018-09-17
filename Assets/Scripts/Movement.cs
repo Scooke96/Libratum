@@ -736,7 +736,7 @@ public class Movement : MonoBehaviour
 
 			if (Sword.activeSelf == true)
 			{
-				if (Input.GetAxis ("Fire1_P3") > 0 && Animation1.GetCurrentAnimatorStateInfo (0).IsName ("New State"))
+				if (Input.GetAxis ("Fire_P3") > 0 && Animation1.GetCurrentAnimatorStateInfo (0).IsName ("New State"))
 				{
 					Debug.Log ("SwingP3");
 					Swing.Play ();
@@ -745,7 +745,7 @@ public class Movement : MonoBehaviour
 			}
 			else if (MegaSword.activeSelf == true)
 			{
-				if (Input.GetAxis ("Fire1_P3") > 0 && Animation2.GetCurrentAnimatorStateInfo (0).IsName ("New State"))
+				if (Input.GetAxis ("Fire_P3") > 0 && Animation2.GetCurrentAnimatorStateInfo (0).IsName ("New State"))
 				{
 					Debug.Log ("SwingP3");
 					Swing.Play ();
@@ -821,7 +821,7 @@ public class Movement : MonoBehaviour
 
 			if (Sword.activeSelf == true)
 			{
-				if (Input.GetAxis ("Fire1_P4") > 0 && Animation1.GetCurrentAnimatorStateInfo (0).IsName ("New State"))
+				if (Input.GetAxis ("Fire_P4") > 0 && Animation1.GetCurrentAnimatorStateInfo (0).IsName ("New State"))
 				{
 					Debug.Log ("SwingP4");
 					Swing.Play ();
@@ -830,7 +830,7 @@ public class Movement : MonoBehaviour
 			}
 			else if (MegaSword.activeSelf == true)
 			{
-				if (Input.GetAxis ("Fire1_P4") > 0 && Animation2.GetCurrentAnimatorStateInfo (0).IsName ("New State"))
+				if (Input.GetAxis ("Fire_P4") > 0 && Animation2.GetCurrentAnimatorStateInfo (0).IsName ("New State"))
 				{
 					Debug.Log ("SwingP4");
 					Swing.Play ();
